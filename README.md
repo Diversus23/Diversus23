@@ -20,3 +20,5 @@
 Кроме того, иногда пишу статьи на [нашем сайте](https://softonit.ru/blog/).
 
 Хотите узнать больше? См. [репозитории](https://github.com/Diversus23?tab=repositories). Так же, меня можно найти на [Инфостарте](https://infostart.ru/profile/37844/) и [Habr](https://habr.com/ru/users/Diversus/).
+
+`#0969DA` `rgb(9, 105, 218)` `hsl(212, 92%, 45%)` `#096`
