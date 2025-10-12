@@ -2,6 +2,8 @@
 
 ### CEO [Softonit](https://softonit.ru) | DEVELOPER 1C
 
+![Static Badge](https://img.shields.io/badge/my%20telegram-channel-blue)](https://t.me/codeitdir)
+
 Привет! 👋
 
 Меня зовут Барилко Виталий, я руководитель компании [Софтонит](https://softonit.ru), ведущий разработчик, архитектор решений.
