@@ -2,7 +2,9 @@
 
 ### CEO [Softonit](https://softonit.ru) | DEVELOPER 1C
 
-[![Static Badge](https://img.shields.io/badge/my_telegram-channel-blue)](https://t.me/codeitdir)
+<h2 align="left">Барилко Виталий - архитектор 1С</h2>
+
+[![Static Badge](https://img.shields.io/badge/my_telegram-channel-blue)](https://t.me/codeitdir) [![Static Badge](https://img.shields.io/badge/softonit.ru-Сайт-blue)](https://softonit.ru)
 
 Привет! 👋
 
