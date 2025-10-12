@@ -1,10 +1,8 @@
 <p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="Header"/></p>
 
-### CEO [Softonit](https://softonit.ru) | DEVELOPER 1C
-
 <h2 align="left">Барилко Виталий - архитектор 1С</h2>
 
-[![Static Badge](https://img.shields.io/badge/my_telegram-channel-blue)](https://t.me/codeitdir) [![Static Badge](https://img.shields.io/badge/softonit.ru-Сайт-blue)](https://softonit.ru)
+[![Static Badge](https://img.shields.io/badge/my_telegram-channel-blue)](https://t.me/codeitdir) [![Static Badge](https://img.shields.io/badge/softonit.ru-Сайт-green)](https://softonit.ru)
 
 Привет! 👋
 
