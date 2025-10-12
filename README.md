@@ -2,7 +2,7 @@
 
 ### CEO [Softonit](https://softonit.ru) | DEVELOPER 1C
 
-![Static Badge](https://img.shields.io/badge/my_telegram-channel-blue)](https://t.me/codeitdir)
+[![Static Badge](https://img.shields.io/badge/my_telegram-channel-blue)](https://t.me/codeitdir)
 
 Привет! 👋
 
