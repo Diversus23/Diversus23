@@ -2,7 +2,7 @@
 
 <h2 align="left">Барилко Виталий - архитектор 1С</h2>
 
-[![Static Badge](https://img.shields.io/badge/my_telegram-channel-blue)](https://t.me/codeitdir) [![Static Badge](https://img.shields.io/badge/softonit.ru-Сайт-green)](https://softonit.ru)
+[![Static Badge](https://img.shields.io/badge/my_telegram-channel-blue)](https://t.me/codeitdir) [![Static Badge](https://img.shields.io/badge/softonit.ru-Сайт-08a652)](https://softonit.ru)
 
 Привет! 👋
 
